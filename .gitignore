@@ -70,3 +70,4 @@ Assets/Resources/Hidden*
 .vscode/
 
 # Unity user settings
+UserSettings/*
