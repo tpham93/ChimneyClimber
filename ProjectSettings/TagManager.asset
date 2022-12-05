@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Cane
+  - Background
+  - World
+  - Enemy
+  - Present
+  - FinishBlock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1645920805
+    locked: 0
+  - name: World
+    uniqueID: 1204783191
+    locked: 0
+  - name: Cane
+    uniqueID: 1894955303
+    locked: 0
+  - name: Enemies
+    uniqueID: 91553085
+    locked: 0
+  - name: Presents
+    uniqueID: 1756966535
+    locked: 0
+  - name: PresentIndicator
+    uniqueID: 3604930585
+    locked: 0
+  - name: Player
+    uniqueID: 1483835275
+    locked: 0
+  - name: FinishBlock
+    uniqueID: 671831859
+    locked: 0
