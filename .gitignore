@@ -58,10 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# TextMesh Pro
-Assets/TextMesh Pro*
-Assets/TextMesh Pro/
-
 # Hidden resources
 Assets/Resources/Hidden/
 Assets/Resources/Hidden*
